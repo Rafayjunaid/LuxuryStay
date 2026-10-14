@@ -1,4 +1,9 @@
 [README-LuxuryStay.md](https://github.com/user-attachments/files/33417353/README-LuxuryStay.md)
+
+
+https://github.com/user-attachments/assets/e07365af-ef86-452a-b6b0-727a747eef74
+
+
 # LuxuryStay — Hotel Management System
 
 LuxuryStay is a full-stack hotel management web application built with the MERN stack. It brings the guest booking experience and day-to-day hotel operations into one system, with separate dashboards for hotel staff.
