@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6aac578cd6161af525165a76"
+  },
+  "userId": {
+    "$oid": "6aab039d9988317bcf044ee0"
+  },
+  "name": "abdulrafayjunaid8@gmail.com",
+  "email": "abdulrafayjunaid8@gmail.com",
+  "rating": 3,
+  "message": "nice",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-09-17T21:11:40.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-04T20:36:56.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aadb23299d2cdb0cac7f88a"
+  },
+  "userId": {
+    "$oid": "6aab039d9988317bcf044ee0"
+  },
+  "name": "abdulrafayjunaid8@gmail.com",
+  "email": "abdulrafayjunaid8@gmail.com",
+  "rating": 3,
+  "message": "nice",
+  "status": "blocked",
+  "createdAt": {
+    "$date": "2026-09-17T21:11:40.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-04T19:10:02.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab181878b83edd9e7f8648a"
+  },
+  "userId": {
+    "$oid": "6aadae693b29e489460d8040"
+  },
+  "name": "rafay",
+  "email": "rafay@gmail.com",
+  "rating": 3,
+  "message": "highly recommended very comfortable enviornment",
+  "status": "blocked",
+  "createdAt": {
+    "$date": "2026-09-21T19:12:07.893Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-04T19:10:01.802Z"
+  },
+  "__v": 0
+}]

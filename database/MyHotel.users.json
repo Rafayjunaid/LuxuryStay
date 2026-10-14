@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6ab186abaf2629aad8333187"
+  },
+  "name": "saim",
+  "email": "saim@gmail.com",
+  "password": "$2b$10$h0tiNSMsd9GZD0.Pe3XlVOrEvL8oN7Rjf/njAH0GFBPwCb0RR/Sfe",
+  "profilePic": "/uploads/1789767273631-pfp.jpg",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab186ecaf2629aad8333188"
+  },
+  "name": "hamza",
+  "email": "hamza@gmail.com",
+  "password": "$2b$10$h0tiNSMsd9GZD0.Pe3XlVOrEvL8oN7Rjf/njAH0GFBPwCb0RR/Sfe",
+  "profilePic": "/uploads/1789767273631-pfp.jpg",
+  "role": "manager"
+},
+{
+  "_id": {
+    "$oid": "6ab2e6b96a566946dd97966b"
+  },
+  "name": "taheer",
+  "email": "taheer@gmail.com",
+  "password": "$2b$10$h0tiNSMsd9GZD0.Pe3XlVOrEvL8oN7Rjf/njAH0GFBPwCb0RR/Sfe",
+  "profilePic": "/uploads/1789767273631-pfp.jpg",
+  "role": "housekeeping",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abec82b836b00eb315e13a8"
+  },
+  "name": "asad",
+  "email": "asad@gmail.com",
+  "password": "$2b$10$99q.jVzX5E5i86/lwc0dXOXtm5haTJCFgsyAlctbFAOppnaKeTxXK",
+  "profilePic": "",
+  "role": "receptionist",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-10-01T20:52:59.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-04T19:04:46.108Z"
+  },
+  "__v": 0,
+  "isBlocked": false
+}]

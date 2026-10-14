@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6abcbcdd0bc5cfee7916e4d6"
+  },
+  "roomId": {
+    "$oid": "6aab092a44cd86e3dfd45754"
+  },
+  "status": "needs_cleaning",
+  "lastCleanedAt": {
+    "$date": "2026-09-30T10:33:12.575Z"
+  },
+  "nextCleaningDueAt": null,
+  "createdAt": {
+    "$date": "2026-09-30T07:40:13.423Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-30T10:34:10.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abcbcdd0bc5cfee7916e4d7"
+  },
+  "roomId": {
+    "$oid": "6aab094844cd86e3dfd45755"
+  },
+  "status": "needs_cleaning",
+  "lastCleanedAt": {
+    "$date": "2026-09-30T10:15:43.038Z"
+  },
+  "nextCleaningDueAt": null,
+  "createdAt": {
+    "$date": "2026-09-30T07:40:13.441Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-30T10:16:34.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abcbcdd0bc5cfee7916e4d8"
+  },
+  "roomId": {
+    "$oid": "6aab094c44cd86e3dfd45756"
+  },
+  "status": "needs_cleaning",
+  "lastCleanedAt": {
+    "$date": "2026-09-30T10:16:10.055Z"
+  },
+  "nextCleaningDueAt": null,
+  "createdAt": {
+    "$date": "2026-09-30T07:40:13.443Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-30T10:16:34.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac2b2fcf686dd3cff12b980"
+  },
+  "roomId": {
+    "$oid": "6ac2b2e8f686dd3cff12b97f"
+  },
+  "status": "needs_cleaning",
+  "lastCleanedAt": null,
+  "nextCleaningDueAt": null,
+  "createdAt": {
+    "$date": "2026-10-04T20:11:40.814Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-04T20:11:40.814Z"
+  },
+  "__v": 0
+}]

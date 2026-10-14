@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6ab1992bd5e318b2a41e05c5"
+  },
+  "bookingId": "LS-23979922",
+  "userId": {
+    "$oid": "6ab186ecaf2629aad8333188"
+  },
+  "roomId": {
+    "$oid": "6aab094844cd86e3dfd45755"
+  },
+  "checkIn": {
+    "$date": "2026-09-22T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "guests": 2,
+  "nights": 2,
+  "totalPrice": 560,
+  "additionalCharges": 0,
+  "amountPaid": 560,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "refundStatus": "not_applicable",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2026-09-21T20:52:59.923Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T20:53:51.556Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6ab197f9d5e318b2a41e05c2"
+  },
+  "invoiceNumber": "INV-0023673391",
+  "bookingId": {
+    "$oid": "6ab189008f9445719ec137f6"
+  },  
+  "bookingNumber": "LS-19840489",
+  "userId": {
+    "$oid": "6ab186ecaf2629aad8333188"
+  },
+  "guestName": "hamza",
+  "guestEmail": "hamza@gmail.com",
+  "roomId": {
+    "$oid": "6aab094c44cd86e3dfd45756"
+  },
+  "roomNumber": "301",
+  "roomType": "Presidential Suite",
+  "guests": 2,
+  "checkIn": {
+    "$date": "2026-09-22T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-09-25T00:00:00.000Z"
+  },
+  "nights": 3,
+  "roomCharges": 1500,
+  "additionalCharges": 500,
+  "totalAmount": 2000,
+  "amountPaid": 2000,
+  "remainingAmount": 0,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "checkoutDate": {
+    "$date": "2026-09-21T20:47:53.391Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-21T20:47:53.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T20:47:53.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab198c0d5e318b2a41e05c4"
+  },
+  "invoiceNumber": "INV-0023872131",
+  "bookingId": {
+    "$oid": "6ab1988ed5e318b2a41e05c3"
+  },
+  "bookingNumber": "LS-23822741",
+  "userId": {
+    "$oid": "6ab186ecaf2629aad8333188"
+  },
+  "guestName": "hamza",
+  "guestEmail": "hamza@gmail.com",
+  "roomId": {
+    "$oid": "6aab094844cd86e3dfd45755"
+  },
+  "roomNumber": "201",
+  "roomType": "Executive Suite",
+  "guests": 2,
+  "checkIn": {
+    "$date": "2026-09-22T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "nights": 2,
+  "roomCharges": 560,
+  "additionalCharges": 0,
+  "totalAmount": 560,
+  "amountPaid": 560,
+  "remainingAmount": 0,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "checkoutDate": {
+    "$date": "2026-09-21T20:51:12.131Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-21T20:51:12.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T20:51:12.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1995fd5e318b2a41e05c6"
+  },
+  "invoiceNumber": "INV-0024031558",
+  "bookingId": {
+    "$oid": "6ab1992bd5e318b2a41e05c5"
+  },
+  "bookingNumber": "LS-23979922",
+  "userId": {
+    "$oid": "6ab186ecaf2629aad8333188"
+  },
+  "guestName": "hamza",
+  "guestEmail": "hamza@gmail.com",
+  "roomId": {
+    "$oid": "6aab094844cd86e3dfd45755"
+  },
+  "roomNumber": "201",
+  "roomType": "Executive Suite",
+  "guests": 2,
+  "checkIn": {
+    "$date": "2026-09-22T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "nights": 2,
+  "roomCharges": 560,
+  "additionalCharges": 0,
+  "totalAmount": 560,
+  "amountPaid": 560,
+  "remainingAmount": 0,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "checkoutDate": {
+    "$date": "2026-09-21T20:53:51.558Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-21T20:53:51.560Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T20:53:51.560Z"
+  },
+  "__v": 0
+}]
